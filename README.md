@@ -1,4 +1,4 @@
-This is my first game I made with CSS, HTML, and JavaScript! You can play it here => https://kolevgenchev.github.io/RockPaperScissors-My-first-game/
+This is my first game I made with CSS, HTML, and JavaScript! You can play it here 👉 https://kolevgenchev.github.io/RockPaperScissors-My-first-game/
 
 It is a classic Rock, Paper, Scissors game with the following rules: The first player to win three rounds becomes the overall winner.
 
